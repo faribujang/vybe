@@ -6,7 +6,7 @@ import wave
 
 import os.path
 
-save_path = "C:\\Users\\Imam\\Documents\\PROGRAMMING PROJECTS\\LaunchX"
+save_path = "C:\\Users\\Imam\\Documents\\PROGRAMMING PROJECTS\\LaunchX" #any directory
 
 name_of_file = input("What is the name of the file: ")
 
